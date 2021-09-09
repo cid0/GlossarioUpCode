@@ -1,6 +1,8 @@
 # Glossário
 Utilizando Markdown -> https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 
+link Alura -> https://cursos.alura.com.br/dashboard
+
 #exeption
 ## Classe
 Representa uma entidade em um programa.
